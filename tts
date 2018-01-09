@@ -1,0 +1,58 @@
+[
+	{
+	  "firstName": "Ervis",
+	  "lastName": "Semanaj",
+	  "type": "cellphone",
+	  "number": 673018673,
+	  "gender": "M",
+	  "age": 23
+	},
+	{
+	  "firstName": "Ema",
+	  "lastName": "Harper",
+	  "type": "cellphone",
+	  "number": 684599377,
+	  "gender": "F",
+	  "age": 18
+	},
+	{
+	  "firstName": "Benjamin",
+	  "lastName": "Aiden",
+	  "type": "cellphone",
+	  "number": 691110884,
+	  "gender": "M",
+	  "age": 22
+	},
+	{
+	  "firstName": "Liam",
+	  "lastName": "Jackson",
+	  "type": "cellphone",
+	  "number": 677796321,
+	  "gender": "M",
+	  "age": 50
+	},
+	{
+	  "firstName": "Isabella",
+	  "lastName": "Madison",
+	  "type": "cellphone",
+	  "number": 689374555,
+	  "gender": "F",
+	  "age": 16
+	},
+	{
+	  "firstName": "Ezra",
+	  "lastName": "Ace",
+	  "type": "cellphone",
+	  "number": 698872147,
+	  "gender": "F",
+	  "age": 29
+	},
+	{
+	  "firstName": "Violet",
+	  "lastName": "Charlotte",
+	  "type": "cellphone",
+	  "number": 675521975,
+	  "gender": "F",
+	  "age": 35
+	}
+]
